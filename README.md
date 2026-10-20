@@ -1,5 +1,9 @@
 # Procedural Jellyfish
 
+Yikai Li
+
+I use one late day for this assignment.
+
 A procedural, animated moon-jellyfish built in Houdini: a pulsing translucent bell with branching veins, four pink gonad rings inside, ruffled oral arms simulated as Vellum cloth, and long tentacles simulated as Vellum hair.
 
 <img width="400" alt="Jellyfish animation" src="jellyfish.gif">
